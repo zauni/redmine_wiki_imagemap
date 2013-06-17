@@ -1,7 +1,7 @@
 #What does it do?
 
 This redmine plugin exposes a macro to embed image maps into your wiki.
-It's based on the great work of "Arlo Carreon":https://github.com/mexitek/redmine_wiki_html_util
+It's based on the great work of [Arlo Carreon](https://github.com/mexitek/redmine_wiki_html_util)
 
 ##Exposed Macros
 
