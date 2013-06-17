@@ -3,18 +3,20 @@
 This redmine plugin exposes a macro to embed image maps into your wiki.
 It's based on the great work of [Arlo Carreon](https://github.com/mexitek/redmine_wiki_html_util)
 
+A online tool to get the `<area>` definitions is [summerstyle](http://summerstyle.github.com/summer/).
+
 ##Exposed Macros
 
 * imagemap()
 
 #Examples
 
-´´´
+```
 {{imagemap(image.png)
 	<area shape="circle" coords="443, 234, 38" href="http://google.com" />
     <area shape="rect" coords="798, 88, 914, 205" href="#anchor" />
 }}
-´´´
+```
 
 #Installation
 
